@@ -1,0 +1,37 @@
+[
+  {
+    "repository": "TeamHorizon/android_device_sony_fusion3-common",
+    "target_path": "device/sony/fusion3-common",
+    "branch": "n"
+  },
+  {
+    "repository": "TeamHorizon/android_device_sony_common",
+    "target_path": "device/sony/common",
+    "branch": "n"
+  },
+  {
+    "repository": "TeamHorizon/android_hardware_sony_thermanager",
+    "target_path": "hardware/sony/thermanager",
+    "branch": "n"    
+  },
+  {
+    "repository": "TeamHorizon/android_kernel_sony_apq8064",
+    "target_path": "kernel/sony/apq8064",
+    "branch": "n-new"
+  },
+  {
+    "repository": "TeamHorizon/android_external_busybox",
+    "target_path": "external/busybox",
+    "branch": "n"
+  },
+  {
+    "repository": "TeamHorizon/proprietary_vendor_sony",
+    "target_path": "vendor/sony",
+    "branch": "n"  
+  },
+  {
+    "repository": "TeamHorizon/android_external_stlport",
+    "target_path": "external/stlport",
+    "branch": "n"  
+  }
+]
