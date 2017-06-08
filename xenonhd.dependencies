@@ -15,9 +15,9 @@
     "branch": "n"    
   },
   {
-    "repository": "TeamHorizon/android_kernel_sony_apq8064",
+    "repository": "TeamHorizon/kernel_sony_apq8064",
     "target_path": "kernel/sony/apq8064",
-    "branch": "n-new"
+    "branch": "n"
   },
   {
     "repository": "TeamHorizon/android_external_busybox",
